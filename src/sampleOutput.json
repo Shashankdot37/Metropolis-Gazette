@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Phil Stewart",
+      "title": "North Korean troops are in Russia, US defense secretary says - Reuters",
+      "description": "Lloyd Austin said it remained to be seen what they would be doing there.",
+      "url": "https://www.reuters.com/world/north-korean-troops-russia-us-defense-secretary-says-2024-10-23/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JDSZGBJATNMOJBEY4KHS2K5BDY.jpg?auth=55b8eb8cd65aec6589f08e72dac2e93f3c6368540ca5878d214c5fae5fb652a9&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-10-23T12:02:32Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Sports Illustrated" },
+      "author": "Andy Nesbitt",
+      "title": "Shaq Had Honest Message for Bronny James After Historic Lakers Debut - Sports Illustrated",
+      "description": "Bronny James has some work to do.",
+      "url": "https://www.si.com/media/shaquille-oneal-bronny-james-lebron-james",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_902,h_507,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jawjgg5nhnm8nv7d5a.png",
+      "publishedAt": "2024-10-23T11:54:49Z",
+      "content": "Bronny James and his dad, LeBron James, made NBA history in the Lakers' season opener on Tuesday night, as they became the father-son duo in NBA history to appear in a game together. The moment they'… [+1398 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barron's" },
+      "author": "Barron's",
+      "title": "McDonald’s, Starbucks, AT&T, Tesla, Texas Instruments, Qualcomm, Enphase, Boeing, and More Movers - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/stock-market-movers-19525eaa",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23T11:07:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Nintendo Life" },
+      "author": "Nintendo Life",
+      "title": "Review: Romancing SaGa 2: Revenge Of The Seven (Switch) - A Remake That's Equally Intriguing & Underwhelming - Nintendo Life",
+      "description": "Two steps forward, one step back",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch/romancing-saga-2-revenge-of-the-seven",
+      "urlToImage": "https://images.nintendolife.com/d78e6a3d7995b/1280x720.jpg",
+      "publishedAt": "2024-10-23T11:00:00Z",
+      "content": "Captured on Nintendo Switch (Docked)\r\nSquare Enix has been putting out some AA mid-tier entries for some of its forgotten franchises lately, including Visions of Mana (not on Switch) and not one, but… [+5879 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Sources: Chiefs finalizing deal for Titans' Hopkins - ESPN",
+      "description": "The Titans and Chiefs are working to finalize a trade that would send wide receiver DeAndre Hopkins to Kansas City for a conditional fourth-round pick, league sources told ESPN.",
+      "url": "https://www.espn.com/nfl/story/_/id/41957638/sources-chiefs-finalizing-trade-titans-wr-deandre-hopkins",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1016%2Fr1401595_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-10-23T10:55:00Z",
+      "content": "Oct 23, 2024, 06:55 AM ET\r\nThe Titans and Chiefs are working to finalize a trade that would send wide receiver DeAndre Hopkins to Kansas City, league sources told ESPN's Adam Schefter.\r\nThe Titans wo… [+1844 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera Staff",
+      "title": "Trump vs Harris: Who’s leading in the US election polls as the vote looms? - Al Jazeera English",
+      "description": "We track the latest polls with less than two weeks to go before US voters choose a new president on November 5.",
+      "url": "https://www.aljazeera.com/news/2024/10/23/trump-vs-harris-whos-leading-in-the-us-election-polls-as-the-vote-looms",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/Poll-tracker-cover-image_edit-1729687022.png?resize=1200%2C630",
+      "publishedAt": "2024-10-23T10:52:30Z",
+      "content": "With less than two weeks to go until election day in the United States, polling averages show that the two main presidential candidates, Kamala Harris and Donald Trump, are in effect tied in most cru… [+3833 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "19 suspected members of powerful Sinaloa cartel killed in shootout with troops in Mexico - CBS News",
+      "description": null,
+      "url": "https://www.cbsnews.com/news/sinaloa-cartel-members-killed-mexico-troops/",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23T10:38:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Amelia Lucas",
+      "title": "Coca-Cola tops earnings estimates, as higher prices offset sluggish demand - CNBC",
+      "description": "Shares of Coke have climbed 18% this year, raising the company's market value to nearly $300 billion.",
+      "url": "https://www.cnbc.com/2024/10/23/coca-cola-ko-q3-2024-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108050999-1729608172182-gettyimages-2175335836-zawrzel-business240715_npPvA.jpeg?v=1729626757&w=1920&h=1080",
+      "publishedAt": "2024-10-23T10:25:01Z",
+      "content": "Coca-Cola on Wednesday reported quarterly earnings and revenue that topped analysts' expectations, thanks to a boost from higher prices that offset sluggish demand.\r\nShares of the company fell 2% in … [+2913 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "Ellise Shafer",
+      "title": "Roman Polanski No Longer Going on Trial in L.A. Over Alleged 1973 Rape of Minor - Variety",
+      "description": "Roman Polanski will no longer go on trial in Los Angeles next year over the alleged rape of a minor in 1973, French news agency AFP reports.",
+      "url": "https://variety.com/2024/film/global/roman-polanski-trial-canceled-los-angeles-rape-case-settled-1236187561/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/10/polanski.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-10-23T10:18:00Z",
+      "content": "Roman Polanski will no longer go on trial in Los Angeles next year over the alleged rape of a minor in 1973, French news agency AFP reports. \r\nThe director’s lawyer, Alexander Rufus-Isaacs, told the … [+2161 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Adrianna Rodriguez",
+      "title": "New guidance for stroke prevention includes Ozempic, other weight loss drugs - USA TODAY",
+      "description": "For the first time in a decade, the American Heart Association and American Stroke Association issued new recommendations for preventing strokes.",
+      "url": "https://www.usatoday.com/story/news/health/2024/10/21/stroke-ozempic-new-prevention-guidance/75774688007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/17/USATODAY/usatsports/247WallSt.com-247WS-935877-imageforentry1.jpg?width=1365&height=768&fit=crop&format=pjpg&auto=webp",
+      "publishedAt": "2024-10-23T10:11:42Z",
+      "content": "Experts this week identified new risks and issued updated recommendations for preventing strokes, a leading cause of death and disability in the U.S.\r\nIt's the first time in a decade that health expe… [+2511 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Ellen Mitchell",
+      "title": "US scrambles after Israel war plan leak: What to know - The Hill",
+      "description": "An apparent U.S. intelligence breach related to Israel’s plans to strike Iran has unsettled the intelligence community and sent the Biden administration scrambling to determine if it came from a hack or an internal leak. The breach, first posted to the Telegr…",
+      "url": "https://thehill.com/policy/national-security/4947946-us-intelligence-breach-israel-iran/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/08/AP24177558629603-e1722641006977.jpg?w=1280",
+      "publishedAt": "2024-10-23T10:00:00Z",
+      "content": "Skip to content\r\nAn apparent U.S. intelligence breach related to Israel’s plans to strike Iran has unsettled the intelligence community and sent the Biden administration scrambling to determine if it… [+6044 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": "Lisa Kashinsky, Jessica Piper, Meridith McGraw",
+      "title": "Don’t let Trump’s buzzy sideshows distract you from his traditional swing-state strategy - POLITICO",
+      "description": "He’s in NYC? California? It’s all part of the plan.",
+      "url": "https://www.politico.com/news/2024/10/23/trump-sideshows-swing-state-campaign-strategy-00184923",
+      "urlToImage": "https://static.politico.com/1c/20/d704aed14db6a13042e2b24eec29/election-2024-trump-41467.jpg",
+      "publishedAt": "2024-10-23T09:00:00Z",
+      "content": "Trump is blitzing the Rust Belt with a particular focus on Pennsylvania, where he has visited well over a dozen times in the past three months as he tries to recapture the blue wall states that broke… [+8173 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "DAVID KOENIG, MANUEL VALDES",
+      "title": "Boeing is expected to report a big Q3 loss, then wait for results of vote by striking workers - The Associated Press",
+      "description": "Boeing reported a massive loss of more than $6 billion in its third quarter, dragged down by a work stoppage and charges tied to its commercial aircraft and defense programs. Boeing lost $9.97 per share for the period ended Sept. 30, with an adjusted loss of …",
+      "url": "https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d189683/2147483647/strip/true/crop/4430x2492+0+163/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F4c%2F386e27e636eae52843f07d3e2f5f%2Fc287d81eab0e424ba6cf07f584c4f39e",
+      "publishedAt": "2024-10-23T08:37:00Z",
+      "content": "EVERETT, Wash. (AP) Boeing reported a loss of more than $6 billion in the third quarter and immediately turned its attention to union workers who will vote Wednesday whether to accept a company contr… [+4634 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": null,
+      "title": "Images capture exact moments an Israeli missile strikes building in Beirut - The Associated Press",
+      "description": "BEIRUT (AP) — Taking cover behind a large tree, an Associated Press photographer pointed his camera toward a Beirut apartment building the Israeli military warned was in its sights.",
+      "url": "https://apnews.com/article/lebanon-beirut-israel-missile-41be424dcf3031457bd93acd0cb3389e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6f1483c/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2Fc3%2F91dd04274238ddefcfbead6b2a91%2Fa62c579034fb429fba04d1c7d888df28",
+      "publishedAt": "2024-10-23T08:18:00Z",
+      "content": "BEIRUT (AP) Taking cover behind a large tree, an Associated Press photographer pointed his camera toward a Beirut apartment building the Israeli military warned was in its sights.\r\nWhen a bomb plunge… [+2992 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Nika Shakhnazarova",
+      "title": "Liam Payne’s body to remain in Argentina for further investigations as his heartbroken dad ‘vows to do right’ - New York Post ",
+      "description": "The troubled One Direction crooner, 31, last week fatally fell from a balcony at the Casa Sur Hotel in Buenos Aires.",
+      "url": "https://nypost.com/2024/10/23/entertainment/liam-paynes-body-to-remain-in-argentina-for-further-investigations/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/92211023.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-10-23T08:05:00Z",
+      "content": "Liam Payne’s body will remain in Argentina as additional investigations take place.\r\nThe troubled One Direction crooner, 31, last week fatally fell from a balcony at the Casa Sur Hotel in Buenos Aire… [+3044 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Curt Merrill, Matt Stiles, Ethan Cohen",
+      "title": "Tracking early voting trends by party, age and race — in maps and charts - CNN",
+      "description": "Millions of Americans have already cast their ballots in the November election, either by mail or through early in-person voting, getting a head start on shaping the presidential race.",
+      "url": "https://www.cnn.com/2024/10/23/politics/early-voting-trends-2024-2020-visuals-dg/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241022-early-voting-card-exlargetease.png?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-23T08:00:00Z",
+      "content": "CNN is monitoring who is casting pre-election ballots in the 36 states that offer early voting, as well as how early voting numbers compare with four years ago, when pre-election voting reached histo… [+973 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Key takeaways: What you missed from Harris' NBC interview - BBC.com",
+      "description": "Harris answered questions about Joe Biden's dropping out of the race and whether she would pardon Donald Trump.",
+      "url": "https://www.bbc.com/news/articles/cq646evy26go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7dd7/live/b9ca87b0-90d0-11ef-bd1a-9ff4ed9729d9.jpg",
+      "publishedAt": "2024-10-23T07:45:20Z",
+      "content": "Vice-President Kamala Harris and her team are prepared if her opponent, Donald Trump, declares victory in the presidential election before all ballots are counted, she told NBC News. \r\nThe interview … [+4132 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "BETH HARRIS",
+      "title": "Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63 - The Associated Press",
+      "description": "Fernando Valenzuela, the Los Angeles Dodgers pitching ace who inspired “Fernandomania” in the early 1980s, has died. He was 63. The Mexican-born phenom won the National League Cy Young Award and Rookie of the Year in 1981, when he helped the Dodgers win the W…",
+      "url": "https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/00c5181/2147483647/strip/true/crop/4556x2563+0+317/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F53%2Fc41e1c93687139ab5d20687fc371%2Fd18ab904abd14775a19dc4f352f39aa3",
+      "publishedAt": "2024-10-23T07:04:00Z",
+      "content": "LOS ANGELES (AP) Fernando Valenzuela, the Mexican-born phenom for the Los Angeles Dodgers who inspired Fernandomania while winning the NL Cy Young Award and Rookie of the Year in 1981, has died. He w… [+7826 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Joseph Menn, David Nakamura",
+      "title": "U.S. officials say Russia smeared Tim Walz, might stoke post-vote violence - The Washington Post",
+      "description": "U.S. officials said Russian social media influencers created and helped amplify fake videos and other false content that alleged abusive conduct by Tim Walz.",
+      "url": "https://www.washingtonpost.com/national-security/2024/10/22/russia-election-disruption-tim-walz/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LEGSFD5GXYLWRPW3VD4MFY3ZYE_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-10-23T06:15:18Z",
+      "content": "U.S. intelligence officials on Tuesday said Russians seeking to disrupt the U.S. elections created a faked video and other material smearing Democratic vice-presidential nominee Tim Walz with abuse a… [+284 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Eric Bradner, Kate Sullivan",
+      "title": "Trump’s former chief of staff says he fits ‘fascist’ definition and prefers ‘dictator approach’ - CNN",
+      "description": "John Kelly, the retired Marine general who was Donald Trump’s White House chief of staff, entered the 2024 fray in stunning fashion, saying the former president fits “into the general definition of fascist” and wanted the “kind of generals Hitler had” in a se…",
+      "url": "https://www.cnn.com/2024/10/22/politics/trump-fascist-john-kelly/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-633182036.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-23T06:05:00Z",
+      "content": "John Kelly, the retired Marine general who was Donald Trumps White House chief of staff, entered the 2024 fray in stunning fashion, saying the former president fits into the general definition of fas… [+7758 chars]"
+    }
+  ]
+}
