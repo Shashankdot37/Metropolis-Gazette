@@ -3,7 +3,6 @@ import NavBar from "./NavBar";
 import React, { Component } from "react";
 import News from "./News";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-// import LoadingBar from "react-top-loading-bar";
 
 export default class App extends Component {
   apiKey = process.env.REACT_APP_API_KEY;
@@ -11,7 +10,6 @@ export default class App extends Component {
     return (
       <Router>
         <div>
-          {/* <LoadingBar color="#f11946" progress={this.state.progress} /> */}
           <NavBar />
           <Routes>
             <Route
